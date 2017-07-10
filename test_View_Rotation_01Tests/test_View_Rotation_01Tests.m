@@ -2,7 +2,7 @@
 //  test_View_Rotation_01Tests.m
 //  test_View_Rotation_01Tests
 //
-//  Created by cdd on 2017/7/7.
+//  Created by jeffasd on 2017/7/7.
 //  Copyright © 2017年 jeffasd. All rights reserved.
 //
 

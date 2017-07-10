@@ -2,7 +2,7 @@
 //  JFControllerView.h
 //  ChangeOrientation
 //
-//  Created by cdd on 2017/7/7.
+//  Created by jeffasd on 2017/7/7.
 //  Copyright © 2017年 Haley. All rights reserved.
 //
 

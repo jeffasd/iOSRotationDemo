@@ -2,7 +2,7 @@
 //  ViewController.m
 //  test_View_Rotation_01
 //
-//  Created by cdd on 2017/7/7.
+//  Created by jeffasd on 2017/7/7.
 //  Copyright © 2017年 jeffasd. All rights reserved.
 //
 
@@ -92,7 +92,7 @@
 - (UIButton *)threeRotationBtn{
     if (_threeRotationBtn == nil) {
         _threeRotationBtn = [UIButton buttonWithType:UIButtonTypeCustom];
-        [_threeRotationBtn setTitle:@"第3种旋转方法" forState:UIControlStateNormal];
+        [_threeRotationBtn setTitle:@"第3种旋转-适配iOS8.1-8.3" forState:UIControlStateNormal];
         [_threeRotationBtn addTarget:self action:@selector(rotationThreeAction:) forControlEvents:UIControlEventTouchDown];
     }
     return _threeRotationBtn;
